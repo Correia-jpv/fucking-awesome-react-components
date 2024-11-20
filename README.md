@@ -686,7 +686,7 @@ _Set of components + responsive layout system_
 - [geist-ui](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
 - [gestalt](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
 - [grommet](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
-- [kokonut-ui](https://github.com/kokonut-labs/kokonutui) - Free Modern and Customizable UI components for React.
+- [kokonut-ui](https://github.com/kokonut-labs/kokonutui) - Free Modern and Customizable UI components.
 - [Mantine](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
 - [orbit](https://github.com/kiwicom/orbit) - Components for building travel oriented projects.
 - [flowbite-react](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
