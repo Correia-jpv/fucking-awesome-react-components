@@ -23,6 +23,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
 - [UI Components](#ui-components)
@@ -625,6 +626,7 @@ _Components to layout the app's UI_
 - [m-react-splitters](https://github.com/martinnov92/React-Splitters) - Splitter component, written in TypeScript.
 - [muuri-react](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
 - [react-grid-layout](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
+- [react-layman](https://github.com/Jeshwin/react-layman) - [demo](https://jeshwin.github.io/react-layman/) - Dynamic tiling layout manager with tabs
 - [react-masonry-component](https://github.com/eiriklv/react-masonry-component) - Wrapper for @desandro's Masonry.
 - [react-reflex](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
 - [react-spaces](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
@@ -697,7 +699,7 @@ _Set of components + responsive layout system_
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
 - [semi-design](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
-- [shadcn/ui](https://github.com/shadcn-ui/ui) - [demo](https://ui.shadcn.com/examples/mail) - [docs](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps. 
+- [shadcn/ui](https://github.com/shadcn-ui/ui) - [demo](https://ui.shadcn.com/examples/mail) - [docs](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps.
 - [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 
 #### Material Design
@@ -1022,7 +1024,6 @@ _Internationalization / L10n / localization / translation_
 - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 - [playwright](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
 
-
 ### Redux
 
 - [redux-devtools-chart-monitor](https://github.com/romseguy/redux-devtools-chart-monitor) - A chart monitor for Redux DevTools.
@@ -1062,7 +1063,7 @@ _Internationalization / L10n / localization / translation_
 - [mozaik](https://github.com/plouc/mozaik) - Moza&iuml;k is a tool based on nodejs / react / d3 / stylus to easily craft beautiful dashboards.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [jsondiffpatch-react](https://github.com/bluepeter/jsondiffpatch-react) - JSON diffing.
-- [iron-session](https://github.com/vvo/iron-session) - Secure, stateless, and cookie-based session library. 
+- [iron-session](https://github.com/vvo/iron-session) - Secure, stateless, and cookie-based session library.
 
 ### Static Website Generator
 
