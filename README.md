@@ -335,6 +335,8 @@ _Ways to navigate views_
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 - [react-svg-map](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
+- [mapkit](https://github.com/1amageek/mapkit) - A library for integrating Apple Maps into React apps using MapKit JS, with support for annotations, overlays, and search.
+
 
 ### Time / Date / Age
 
