@@ -337,7 +337,6 @@ _Ways to navigate views_
 - [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 - [react-svg-map](https://github.com/VictorCazanave/react-svg-map) - [demo](https://victorcazanave.github.io/react-svg-map/) - A set of components to display an interactive SVG map.
 
-
 ### Time / Date / Age
 
 _Display time / date / age_
