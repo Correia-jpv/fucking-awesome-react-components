@@ -23,6 +23,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Table of Contents
 
 - [UI Components](#ui-components)
@@ -158,10 +159,11 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
 - [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
 - [Smart React Grid](https://htmlelements.com/react/demos/grid/overview/) - Fast and feature-complete data grid with Material Design.
+- [simple-table](https://github.com/petera2c/simple-table) - [demo](https://www.simple-table.com/examples) - [docs](https://www.simple-table.com/docs) - Lightweight, fast and feature rich. Sorting/filtering, virtualization, tree data, nested headers, pinned columns, customized styling etc.
+
 - [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
 - [Material-React-Table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
-- [AG Grid](https://www.ag-grid.com/) - The Best JavaScript Grid in the World
 
 ### Infinite Scroll
 
@@ -697,7 +699,7 @@ _Set of components + responsive layout system_
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
 - [semi-design](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
-- [shadcn/ui](https://github.com/shadcn-ui/ui) - [demo](https://ui.shadcn.com/examples/mail) - [docs](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps. 
+- [shadcn/ui](https://github.com/shadcn-ui/ui) - [demo](https://ui.shadcn.com/examples/mail) - [docs](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps.
 - [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 
 #### Material Design
@@ -1022,7 +1024,6 @@ _Internationalization / L10n / localization / translation_
 - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 - [playwright](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
 
-
 ### Redux
 
 - [redux-devtools-chart-monitor](https://github.com/romseguy/redux-devtools-chart-monitor) - A chart monitor for Redux DevTools.
@@ -1062,7 +1063,7 @@ _Internationalization / L10n / localization / translation_
 - [mozaik](https://github.com/plouc/mozaik) - Moza&iuml;k is a tool based on nodejs / react / d3 / stylus to easily craft beautiful dashboards.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [jsondiffpatch-react](https://github.com/bluepeter/jsondiffpatch-react) - JSON diffing.
-- [iron-session](https://github.com/vvo/iron-session) - Secure, stateless, and cookie-based session library. 
+- [iron-session](https://github.com/vvo/iron-session) - Secure, stateless, and cookie-based session library.
 
 ### Static Website Generator
 
