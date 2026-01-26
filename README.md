@@ -921,6 +921,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 
 - [react-inlinesvg](https://github.com/matthewwithanm/react-inlinesvg) - An SVG loader component for ReactJS.
 - [react-godfather](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
+- [react-call](https://github.com/desko27/react-call) - Call your React components.
 - [redux-auth-patch](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - Alternative syntax for PropTypes.
