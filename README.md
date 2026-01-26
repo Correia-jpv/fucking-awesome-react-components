@@ -179,7 +179,6 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
-- [reoverlay](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
 
@@ -192,6 +191,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [react-local-toast](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
 - [react-toast](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
+- [react-confirm-lite](https://github.com/SaadNasir-git/react-confirm-lite) - [demo](https://stackblitz.com/edit/vitejs-vite-bfthlpmw) - is a lightweight, promise-based confirmation dialog for React with built-in Tailwind CSS support. It’s designed to be as simple to use as react-toastify, while remaining fully customizable.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 - [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
