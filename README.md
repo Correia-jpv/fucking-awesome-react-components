@@ -158,10 +158,11 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
 - [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
 - [Smart React Grid](https://htmlelements.com/react/demos/grid/overview/) - Fast and feature-complete data grid with Material Design.
+- [simple-table](https://github.com/petera2c/simple-table) - [demo](https://www.simple-table.com/examples) - [docs](https://www.simple-table.com/docs) - Lightweight, fast and feature rich. Sorting/filtering, virtualization, tree data, nested headers, pinned columns, customized styling etc.
+
 - [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
 - [Material-React-Table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
-- [AG Grid](https://www.ag-grid.com/) - The Best JavaScript Grid in the World
 
 ### Infinite Scroll
 
@@ -178,7 +179,6 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
-- [reoverlay](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [sweetalert2-react-content](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
 
@@ -191,6 +191,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [react-local-toast](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
 - [react-toast](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
 - 🚀 [react-toastify](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
+- [react-confirm-lite](https://github.com/SaadNasir-git/react-confirm-lite) - [demo](https://stackblitz.com/edit/vitejs-vite-bfthlpmw) - is a lightweight, promise-based confirmation dialog for React with built-in Tailwind CSS support. It’s designed to be as simple to use as react-toastify, while remaining fully customizable.
 - [reapop](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 - [simple-react-notifications](https://github.com/alexpermyakov/simple-react-notifications) - [demo](https://alexpermyakov.github.io/simple-react-notifications/) - Tiny notification library (1kb gzip).
 - [react-hot-toast](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.
@@ -695,10 +696,10 @@ _Set of components + responsive layout system_
 - [searchkit](https://github.com/searchkit/searchkit) - React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration.
 - [semi-design](https://github.com/DouyinFE/semi-design) - [demo/docs](https://semi.design/) - A modern, comprehensive, flexible design system.
-- [shadcn/ui](https://github.com/shadcn-ui/ui) - [demo](https://ui.shadcn.com/examples/mail) - [docs](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps. 
+- [shadcn/ui](https://github.com/shadcn-ui/ui) - [demo](https://ui.shadcn.com/examples/mail) - [docs](https://ui.shadcn.com/docs) - Beautifully designed components that you can copy and paste into your apps.
 - [shineout](https://github.com/sheinsight/shineout) - [demo](https://shine.wiki/1.4.x/en/components/GetStart) - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.
 - [Tremor](https://github.com/tremorlabs/tremor-raw) - [demo](https://tremor.so/charts) - [docs](https://tremor.so/docs/getting-started/installation) - Open-source components to build charts and dashboards.
-
+- [untitled-ui-react](https://github.com/untitleduico/react) - [demo](https://www.untitledui.com/react/) - Beautifully crafted collection of components built with React Aria and Tailwind CSS.
 
 #### Material Design
 
@@ -731,6 +732,7 @@ _Set of components + responsive layout system_
 - [matrix-card](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
 - [rsuite](https://github.com/rsuite/rsuite) - [demo/docs](https://rsuitejs.com/) - Suite of components for "enterprise system products".
 - [lens-ui](https://github.com/luciancaetano/lens-ui) - [docs](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
+- [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - [docs](https://tailwind-admin.com/components) - A collection of Ready-made ShadCN UI components you can directly plug into your React/Next.js projects.
 
 ## UI Utilities
 
@@ -875,6 +877,7 @@ _Component properties asynchronously fetched over the network_
 - [aesthetic](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
 - [aphrodite](https://github.com/Khan/aphrodite) - It&#39;s inline styles, but they work!.
 - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
+- [@classmatejs/react](https://github.com/richard-unterberg/classmatejs/tree/master/packages/react) - A class name focused component builder with a syntax like styled components and the sugar of cva's variants.
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
 - [react-responsive](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 - [reactponsive](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
@@ -912,6 +915,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 - [create-react-dependency](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
 - [phoenix](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 - [react-enterprise-starter-kit](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
+- [Tailwindadmin](https://tailwind-admin.com/) - Free Shadcn Dashboard Template Built On React and Tailwind CSS comes with Multiple-framework support
 
 ### Miscellaneous
 
@@ -1022,7 +1026,6 @@ _Internationalization / L10n / localization / translation_
 - [unexpected-react](https://github.com/bruderstein/unexpected-react) - Plugin for unexpected to enable testing the full React virtual DOM, and also the shallow renderer.
 - [playwright](https://github.com/microsoft/playwright) enables reliable end-to-end testing for modern web apps.
 
-
 ### Redux
 
 - [redux-devtools-chart-monitor](https://github.com/romseguy/redux-devtools-chart-monitor) - A chart monitor for Redux DevTools.
@@ -1062,7 +1065,7 @@ _Internationalization / L10n / localization / translation_
 - [mozaik](https://github.com/plouc/mozaik) - Moza&iuml;k is a tool based on nodejs / react / d3 / stylus to easily craft beautiful dashboards.
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [jsondiffpatch-react](https://github.com/bluepeter/jsondiffpatch-react) - JSON diffing.
-- [iron-session](https://github.com/vvo/iron-session) - Secure, stateless, and cookie-based session library. 
+- [iron-session](https://github.com/vvo/iron-session) - Secure, stateless, and cookie-based session library.
 
 ### Static Website Generator
 
