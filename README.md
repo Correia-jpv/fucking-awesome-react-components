@@ -333,6 +333,7 @@ _Ways to navigate views_
 ### Map
 
 - [google-map-react](https://github.com/istarkov/google-map-react) - Universal google map react component, allows render react components on the google map.
+- [mapkit](https://github.com/1amageek/mapkit) - A library for integrating Apple Maps using MapKit JS, with annotations, overlays, and search.
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - [demo](https://pigeon-maps.js.org/) - ReactJS Maps without external dependencies.
 - [react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
