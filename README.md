@@ -267,7 +267,6 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 
 _Display data in charts / graphs / diagrams_
 
-- [chartify](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
 - [essential js 2 charts](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
 - [EazyChart](https://github.com/Hexastack/eazychart) - [demo](https://docs.eazychart.com/#demos) - [docs](https://docs.eazychart.com) - Easily transform data into meaningful charts
 - [echarts for react](https://github.com/hustcc/echarts-for-react) - Wrapper around beautiful Apache Echarts
@@ -924,6 +923,7 @@ _Scaffold / starter kit / Yeoman generator / stack ensemble / seed_
 
 - [react-inlinesvg](https://github.com/matthewwithanm/react-inlinesvg) - An SVG loader component for ReactJS.
 - [react-godfather](https://github.com/kapolos/react-godfather) - A new way to write Functional Components, without Hooks.
+- [react-vvm](https://github.com/behnamrhp/React-VVM) - A new approach to MVVM in React, to enforce clean separation of concerns, reduce boilerplate, and automatic re-render optimization for scalable UI logic.
 - [react-call](https://github.com/desko27/react-call) - Call your React components.
 - [redux-auth-patch](https://github.com/lynndylanhurley/redux-auth) - Complete token authentication system for react + redux that supports isomorphic rendering.
 - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
