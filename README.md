@@ -389,6 +389,7 @@ _Display a control element to paginate_
 
 _Display parsed markdow source_
 
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - 🌎 [demo](https://markstream-react.pages.dev/) - 🌎 [docs](https://markstream.simonhe.me/frameworks/react) - Streaming Markdown renderer for AI chat interfaces with Mermaid, KaTeX, syntax highlighting, SSR, and incremental rendering.
 - <b><code>&nbsp;15810⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;921🍴</code></b> [react-markdown](https://github.com/rexxars/react-markdown)) - Render Markdown as React components.
 
 ### Canvas
@@ -584,7 +585,6 @@ _Let the user define an order on a list_
 #### Markdown Editor
 
 - <b><code>&nbsp;&nbsp;&nbsp;776⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;98🍴</code></b> [react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor)) - React component wrapper for <b><code>&nbsp;&nbsp;3048⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;358🍴</code></b> [EasyMDE (the most fresh SimpleMDE fork)](https://github.com/Ionaru/easy-markdown-editor)).
-- <b><code>&nbsp;&nbsp;&nbsp;215⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;27🍴</code></b> [react-markdown-editor](https://github.com/jrm2k6/react-markdown-editor)) - A markdown editor using React/Reflux.
 - <b><code>&nbsp;&nbsp;2901⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;201🍴</code></b> [react-md-editor](https://github.com/uiwjs/react-md-editor)) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 
 #### Image Editing
